@@ -2,21 +2,21 @@
 Minimum Edit Distance (Advance Algorithm Project)- Implementing Dynamic, Greedy, Branch and Bound, K-strip Algo
 -------------------------------------------------------------------------------------------------------------------------
 1. Team Members : 
-• Vinothkumar Ganeshan* 
-• Ezukwoke kenneth* 
-• Leila Jamshidian sales*
-• Milica Madzarevic* 
+• Vinothkumar Ganeshan*.
+• Ezukwoke kenneth*.
+• Leila Jamshidian sales*.
+• Milica Madzarevic*.
 
 2. TO-DO List :
-• Alignment 
-• K strip calculation order
-• Divide and Connquer 
-• Greedy Algorithm 
-• Pure Recursive approach
-• Branch and Bound Using Heuristic 
-• Experimental Protocol (Analyze Protin Samples on Cloud Servers) 
-• GUI (Project Data) 
-• Report
+• Alignment.
+• K strip calculation order.
+• Divide and Connquer.
+• Greedy Algorithm.
+• Pure Recursive approach.
+• Branch and Bound Using Heuristic.
+• Experimental Protocol (Analyze Protin Samples on Cloud Servers).
+• GUI (Project Data).
+• Report.
 
 ---------------------------------------------------------------------------------------------------------
 3. Description : 
