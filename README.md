@@ -30,9 +30,9 @@ The algorithms must be also evaluated on a protein database available here: http
 The project can be done in group of between 2 to 4 students, and each student must program at least one algorithm.
 
 3. Team Members : 
-Vinothkumar Ganeshan*,
-Ezukwoke  Kenneth*,
-Leila Jamshidian sales*,
+Vinothkumar Ganeshan*
+Ezukwoke  Kenneth*
+Leila Jamshidian sales*
 Milica Madzarevic*
 
 4. TO-DO List :
