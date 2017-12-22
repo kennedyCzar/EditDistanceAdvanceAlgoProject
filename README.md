@@ -1,5 +1,5 @@
 # Minimum Edit Distance Advance Algo Project UJM
-Minimum Edit Distance (Advance Algorithm Project)- Implementing Dynamic, Greedy, Branch and Bound, K-strip Algo
+Minimum Edit Distance (Advance Algorithm Project)- Implementing Dynamic, Greedy, Branch and Bound, K-strip Algo & Kmediods Clustering
 -------------------------------------------------------------------------------------------------------------------------
 1. Team Members : <br />
 >• Vinothkumar Ganeshan* <br />
@@ -8,15 +8,15 @@ Minimum Edit Distance (Advance Algorithm Project)- Implementing Dynamic, Greedy,
 >• Milica Madzarevic*<br />
 
 2. TO-DO List :<br />
-• Alignment. <br />
-• K strip calculation order.<br />
-• Divide and Connquer.<br />
-• Greedy Algorithm.<br />
-• Pure Recursive approach.<br />
-• Branch and Bound Using Heuristic.<br />
-• Experimental Protocol (Analyze Protin Samples on Cloud Servers).<br />
-• GUI (Project Data).<br />
-• Report.<br />
+>• Alignment. <br />
+>• K strip calculation order.<br />
+>• Divide and Connquer.<br />
+>• Greedy Algorithm.<br />
+>• Pure Recursive approach.<br />
+>• Branch and Bound Using Heuristic.<br />
+>• Calculates the pair-wise distance-matrix for all protien database (6222 protiens) using greedy algorithm. It takes 14 hours.<br />
+>• kmedoids Clustering: Performs clustering, using distance-matrix calculated before. It takes 0.5 seconds.<br />
+>• Report.<br />
 
 ---------------------------------------------------------------------------------------------------------
 3. Description : 
