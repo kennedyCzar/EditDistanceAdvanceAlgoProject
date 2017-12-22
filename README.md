@@ -1,22 +1,22 @@
 # Minimum Edit Distance Advance Algo Project UJM
 Minimum Edit Distance (Advance Algorithm Project)- Implementing Dynamic, Greedy, Branch and Bound, K-strip Algo
 -------------------------------------------------------------------------------------------------------------------------
-1. Team Members : 
+1. Team Members : <br />
 • Vinothkumar Ganeshan* <br />
 • Ezukwoke kenneth*<br />
 • Leila Jamshidian sales*<br />
 • Milica Madzarevic*<br />
 
-2. TO-DO List :
-• Alignment.
-• K strip calculation order.
-• Divide and Connquer.
-• Greedy Algorithm.
-• Pure Recursive approach.
-• Branch and Bound Using Heuristic.
-• Experimental Protocol (Analyze Protin Samples on Cloud Servers).
-• GUI (Project Data).
-• Report.
+2. TO-DO List :<br />
+• Alignment. <br />
+• K strip calculation order.<br />
+• Divide and Connquer.<br />
+• Greedy Algorithm.<br />
+• Pure Recursive approach.<br />
+• Branch and Bound Using Heuristic.<br />
+• Experimental Protocol (Analyze Protin Samples on Cloud Servers).<br />
+• GUI (Project Data).<br />
+• Report.<br />
 
 ---------------------------------------------------------------------------------------------------------
 3. Description : 
