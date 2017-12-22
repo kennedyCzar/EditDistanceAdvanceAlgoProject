@@ -1,10 +1,28 @@
 # EditDistanceAdvanceAlgoProject
 Minimum Edit Distance (Advance Algorithm Project)- Implementing Dynamic, Greedy, Branch and Bound, K-strip Algo
 
-1. Description : 
+1. Team Members : 
+• Vinothkumar Ganeshan*
+• Ezukwoke kenneth*
+• Leila Jamshidian sales*
+• Milica Madzarevic*
+
+2. TO-DO List :
+• Alignment 
+• K strip calculation order
+• Divide and Connquer 
+• Greedy Algorithm 
+• Pure Recursive approach
+• Branch and Bound Using Heuristic 
+• Experimental Protocol (Analyze Protin Samples on Cloud Servers) 
+• GUI (Project Data) 
+• Report
+
+---------------------------------------------------------------------------------------------------------
+3. Description : 
 The objective of this project is to implement some algorithms for computing the Edit distance (ED) (an adaptation of the LCS problem) and to provide an experimental study of their running time and the quality of the solution given.
 
-2 Work to do : 
+4 Work to do : 
 You must program different algorithms for the ED problem, including:
 
 • The classic algorithm based on dynamic programming. The algorithm is similar to the LCS problem, your first job will be to look for informations about this algorithm.
@@ -27,21 +45,3 @@ The running time of the algorithms and the quality of the solutions given (in te
 
 The algorithms must be also evaluated on a protein database available here: http://forge.info.univ-angers.fr/~gh/Shspdb/index.php?action=0&mode=0, (experimental set up to be defined).
 
-The project can be done in group of between 2 to 4 students, and each student must program at least one algorithm.
-
-3. Team Members : 
-Vinothkumar Ganeshan*
-Ezukwoke  Kenneth*
-Leila Jamshidian sales*
-Milica Madzarevic*
-
-4. TO-DO List :
-• Alignment 
-• K strip calculation order 
-• Divide and Connquer 
-• Greedy Algorithm approach
-• Pure Recursive approach
-• Branch and Bound using Heuristic 
-• Experimental Protocol (Analyze Protin Samples on Cloud Servers) 
-• GUI (Project Data) 
-• Report
