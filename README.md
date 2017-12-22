@@ -14,7 +14,7 @@ Minimum Edit Distance (Advance Algorithm Project)- Implementing Dynamic, Greedy,
 >• Greedy Algorithm.<br />
 >• Pure Recursive approach.<br />
 >• Branch and Bound Using Heuristic.<br />
->• Calculates the pair-wise distance-matrix for all protien database (6222 protiens) using greedy algorithm. It takes 14 hours.<br />
+>• Calculates the pair-wise distance-matrix for all protien database (6222 protiens) using greedy algorithm.<br />
 >• kmedoids Clustering: Performs clustering, using distance-matrix calculated before. It takes 0.5 seconds.<br />
 >• Report.<br />
 
