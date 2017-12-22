@@ -2,10 +2,10 @@
 Minimum Edit Distance (Advance Algorithm Project)- Implementing Dynamic, Greedy, Branch and Bound, K-strip Algo
 -------------------------------------------------------------------------------------------------------------------------
 1. Team Members : <br />
-• Vinothkumar Ganeshan* <br />
-• Ezukwoke kenneth*<br />
-• Leila Jamshidian sales*<br />
-• Milica Madzarevic*<br />
+>• Vinothkumar Ganeshan* <br />
+>• Ezukwoke kenneth*<br />
+>• Leila Jamshidian sales*<br />
+>• Milica Madzarevic*<br />
 
 2. TO-DO List :<br />
 • Alignment. <br />
