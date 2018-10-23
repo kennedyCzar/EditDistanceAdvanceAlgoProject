@@ -1,6 +1,7 @@
 '''
 function use and keywords:
     1. def init(s1,s2):
+    
          s1-->first string
          s2-->next string
 
